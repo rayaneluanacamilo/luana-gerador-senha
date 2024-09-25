@@ -1,1 +1,1 @@
-# javascript.gerador.senha
+# luana-gerador-senha
